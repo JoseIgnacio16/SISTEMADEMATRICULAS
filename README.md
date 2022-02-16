@@ -42,7 +42,7 @@ De igual forma se agrega a la tabla de la ventana *Home*.
 
 (Al seleccionar un *Estudiante* y una *Materia* se llenaran los campos de textos con la información correspondientes a ellos)
 
-PRESIONANDO EL BOTÓN MATRICULAR EL ESTUDIANTE ESTARIA MATRICULADO SATISFACTORIAMENTE, EL PROGRAMA VERIFICA QUE SE HAYA SELECIONADO UN *ESTUDIANTE* y una *MATERIA*
+PRESIONANDO EL BOTÓN MATRICULAR EL ESTUDIANTE ESTARIA MATRICULADO SATISFACTORIAMENTE, EL PROGRAMA VERIFICA QUE SE HAYA SELECIONADO UN *ESTUDIANTE* Y UNA *MATERIA*
 <img width="660" alt="image" src="https://user-images.githubusercontent.com/81385175/154346388-9b0a9fea-10ab-424c-98a7-224d78b2eeac.png">
 
 NOTA: Si tratamos de matricular nuevamente al *ESTUDIANTE* nos mostrara un mensaje en pantalla.
